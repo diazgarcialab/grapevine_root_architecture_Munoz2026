@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+examples/output/
+.DS_Store
+BiRefNet/
+_staging_segmentation/
