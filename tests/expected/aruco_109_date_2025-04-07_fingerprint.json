@@ -1,0 +1,27 @@
+{
+ "n_segments": 313,
+ "support_histogram": {
+  "0": 108,
+  "1": 112,
+  "2": 20,
+  "3": 12,
+  "4": 6,
+  "5": 9,
+  "6": 10,
+  "7": 9,
+  "8": 4,
+  "9": 4,
+  "10": 4,
+  "11": 4,
+  "12": 1,
+  "13": 1,
+  "14": 1,
+  "16": 1,
+  "18": 4,
+  "19": 3
+ },
+ "n_terminal": 87,
+ "n_isolated": 22,
+ "sha256_of_table": "2d1b0eedb1e7a3db88c928260ab1cec40f2703c2c1fc59f561831db23d16b3bc",
+ "columns_hashed": "seg_id|x_1|y_1|type_1|x_2|y_2|type_2|geodesic_len|euclidean_len|support_count, rows sorted by seg_id, missing values empty"
+}
